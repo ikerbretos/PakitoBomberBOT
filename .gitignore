@@ -6,3 +6,5 @@ geckodriver.log
 /build/
 /dist/
 icon.ico
+victims.json
+__pycache__/
